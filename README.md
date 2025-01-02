@@ -210,9 +210,3 @@ retail-sales-analysis/
 - **Shift Insights:** [Insert result after query execution].
 
 ---
-
-## Next Steps
-
-- Create visualizations for better storytelling (e.g., bar charts for sales trends).
-- Extend the analysis to include profit margin calculations.
-- Implement predictive modeling to forecast sales trends.
