@@ -1,5 +1,8 @@
 
 # Retail Sales Analysis
+![Retail Sales Analysis](photo-1481437156560-3205f6a55735.jpg)
+
+# Retail Sales Analysis
 
 ## Overview
 
