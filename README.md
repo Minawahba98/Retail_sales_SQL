@@ -170,29 +170,7 @@ GROUP BY shift;
 
 ---
 
-## Project Structure
 
-The project is organized as follows:
-
-```
-retail-sales-analysis/
-├── README.md               # Project documentation
-├── data/
-│   └── retail_sales.csv    # Cleaned dataset
-├── sql/
-│   ├── create_table.sql    # Script for table creation
-│   ├── data_cleaning.sql   # Script for data cleaning
-│   ├── top_customers.sql   # Query to find top customers
-│   ├── revenue_by_category.sql   # Query for revenue by category
-│   ├── daily_sales.sql     # Query for daily sales trends
-│   └── shift_sales.sql     # Query for sales by shifts
-├── results/
-│   ├── top_customers.csv   # Results for top customers
-│   ├── revenue_by_category.csv   # Results for revenue by category
-│   ├── daily_sales.csv     # Results for daily sales trends
-│   └── shift_sales.csv     # Results for shift-based sales
-└── visualizations/         # Visualizations (if any)
-```
 
 ---
 
